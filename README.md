@@ -60,7 +60,7 @@ Built as an **MVC-based** application with secure backend workflows:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/shop-cosmetic.git
+git clone https://github.com/3Thuc/Shop_Cosmetics.git
 cd shop-cosmetic
 
 # Build and run (Maven-based Servlet/JSP project)
